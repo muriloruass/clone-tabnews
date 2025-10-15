@@ -1,7 +1,7 @@
 
 import React, { useState } from "react";
 
-const photoURL = "/ana.png";
+const photoURL = "/ana.PNG";
 
 function Home() {
     const [noClickCount, setNoClickCount] = useState(0);
