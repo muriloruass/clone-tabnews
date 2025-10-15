@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "clone-tabnews",
+  "description": "Projeto focado no aprendizado de fazer o código de ponta a ponta.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
