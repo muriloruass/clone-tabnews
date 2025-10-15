@@ -31,7 +31,7 @@ function Home() {
     };
 
     const handleYesClick = () => {
-        setQuestion("AAAAAAAAAAEEEEEEEEE AGORA SIM! TE AMO MUITO <3");
+        setQuestion("AAAAAAAAAAEEEEEEEEE TE ASNO <3");
         setShowButtons(false);
         setMessage("");
         // Gera corações animados
